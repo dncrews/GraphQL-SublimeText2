@@ -103,6 +103,7 @@ repository:
     end: \}
     patterns:
     - include: '#definitions'
+    - include: '#comment'
     - include: '#enum'
 
   escapedChar:
